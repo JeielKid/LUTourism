@@ -112,9 +112,7 @@ p {
 }
 #about h2 {
   color: #b8dfff;
-}
-#about i {
-  margin-bottom: 10px;
+  padding-top: 20px;
 }
 /* BEACHES / FALLS / ETC */
 #about .content-1,
@@ -124,7 +122,6 @@ p {
   width: 33%;
   overflow: hidden;
   text-align: center;
-  padding-top: 20px;
 }
 /* BEACHES */
 #about .content-1 {
