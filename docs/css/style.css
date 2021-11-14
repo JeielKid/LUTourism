@@ -222,3 +222,23 @@ input[type="submit"]:hover {
 }
 
 /* END OF CONTACT PAGE */
+/* ABOUT PAGE */
+
+.trinitylogo img {
+  width: 40%;
+  margin: auto;
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.trinitylogo .cont p {
+  margin: auto;
+  width: 30%;
+  line-height: 2em;
+  text-align: center;
+}
+.trinitylogo .cont span {
+  font-size: 36px;
+}
+
+/* END OF ABOUT PAGE */
