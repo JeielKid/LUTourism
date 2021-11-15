@@ -253,3 +253,24 @@ input[type="submit"]:hover {
 }
 
 /* END OF ABOUT PAGE */
+
+.trinitylogo .cont1 p {
+  margin: auto;
+  width: 40%;
+  line-height: 2em;
+  text-align: left;
+  margin-bottom: 5px;
+}
+.trinitylogo h1 {
+  margin: auto;
+  width: 40%;
+  text-align: left;
+  padding-top: 30px;
+}
+.trinitylogo h2 {
+  width: 40%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+}
